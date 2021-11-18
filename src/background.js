@@ -3,7 +3,7 @@ const YOUTUBE_CONTEXT_MENU_ITEM_ID = 'youtube-search-context-item'
 chrome.contextMenus.removeAll();
 
 chrome.contextMenus.create({
-        title: 'Search YouTube for: "%s"',
+        title: 'Search YouTube for "%s"',
         id: YOUTUBE_CONTEXT_MENU_ITEM_ID,
         contexts: ['selection']
     }
