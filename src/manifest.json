@@ -1,0 +1,12 @@
+{
+  "name": "Youtube context menu search",
+  "description": "Add 'search on Youtube' option into context menu",
+  "permissions": [
+    "contextMenus"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "version": "1.0",
+  "manifest_version": 3
+}
