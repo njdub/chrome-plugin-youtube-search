@@ -1,8 +1,7 @@
-# Google Chrome Extension for Youtube
+# Google Chrome Extension for YouTube
 
-Provides Youtube search functionality via context menu (right click)
+Provides YouTube search functionality via context menu (right click).
+[Chrome Web Store Link](https://chromewebstore.google.com/detail/youtube-context-menu-sear/ihbbfplaeapenlabcbhgockcplipjpii)
 
-## Developers Docs 
-chrome://extensions
-https://developer.chrome.com/docs/extensions/mv3/getstarted/
-https://developer.chrome.com/docs/extensions/reference/contextMenus/
+
+![example-image](./market-picture.jpg)
